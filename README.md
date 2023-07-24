@@ -1,1 +1,1 @@
-# example-ghpages
+# Example website using GitHub Pages
