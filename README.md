@@ -5,4 +5,4 @@
 
 _italics_
 
-*bold*
+**bold**
